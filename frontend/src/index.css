@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner {
+  background-image: url("./assets/images/img4.jpg");
+  background-position: 50%;
+  background-size: cover;
+}
